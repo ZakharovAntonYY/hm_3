@@ -41,3 +41,24 @@ ssh -T git@github.com
 
 ### Вывод
 ![test](screen/test.png)
+
+## 4. Клонирование
+
+```bash
+git clone git@github.com:ZakharovAntonYY/hm_3.git
+```
+
+### Вывод
+![clone](screen/gitClone.png)
+
+## 5. Коммит и push
+
+```bash
+git add -A
+git commit -m "add doc"
+git push origin main
+```
+
+### Вывод
+![push](screen/gitPush.png)
+
